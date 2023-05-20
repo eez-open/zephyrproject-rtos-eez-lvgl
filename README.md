@@ -16,3 +16,4 @@ https://www.envox.eu/studio/studio-introduction/
 
 https://github.com/eez-open/studio
 
+Many thanks to https://hyperglitch.com/ for helping me with CMaking!
