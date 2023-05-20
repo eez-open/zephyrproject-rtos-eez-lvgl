@@ -10,7 +10,9 @@ To work on GUI download/open eez studio, open src/hello_eez.eez-project
 
 do some change in studio, rebuild GUI, rebuild zephyre and flash to device
 
-![GUI](/pic/eez-lvgl_1.png)
+![GUI](/pic/eez-lvgl_2.png)
+
+![STM32F7](/pic/Zephyre_OS.png)
 
 https://www.envox.eu/studio/studio-introduction/
 
