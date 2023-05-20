@@ -9,17 +9,15 @@ extern "C" {
 
 typedef struct _objects_t {
     lv_obj_t *main;
-    lv_obj_t *main_1;
-    lv_obj_t *obj0;
+    lv_obj_t *eez_logo;
+    lv_obj_t *lvgl_logo;
+    lv_obj_t *zaphyre_logo;
 } objects_t;
 
 extern objects_t objects;
 
 void create_screen_main();
 void tick_screen_main();
-
-void create_screen_main_1();
-void tick_screen_main_1();
 
 void create_screens();
 void tick_screen(int screen_index);
